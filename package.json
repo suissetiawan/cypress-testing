@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "cy:open": "cypress open",
-    "cy:run": "cypress run --spec cypress/e2e/add_to_cart.cy.js --browser chrome --headed"
+    "cy:run_test": "cypress run --spec cypress/e2e/add_to_cart.cy.js --browser chrome --headed"
   },
   "author": "swisst",
   "license": "ISC",
